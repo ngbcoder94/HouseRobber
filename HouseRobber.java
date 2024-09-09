@@ -7,5 +7,14 @@
  */
 
 public class HouseRobber{
+        
+        //This will be my rober function that will solve the problem at hand.
+        public int run(int[] nums){
+                //Need to define my edge cases
+                if(nums.length == 0) return 0; 
+                if(nums.length ==  1) return nums[0];
 
+
+        }
+        
 }
